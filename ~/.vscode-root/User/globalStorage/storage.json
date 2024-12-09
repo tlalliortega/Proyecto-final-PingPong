@@ -1,0 +1,63 @@
+{
+    "telemetry.machineId": "4c8017d43bbf6afe0300c71c14cd2ae9aa57fd6d4619d2cd346d0e6de2abd798",
+    "telemetry.sqmId": "{80BD23EA-C088-44D5-8915-F7AB22D9DF11}",
+    "telemetry.devDeviceId": "4d66133c-7d77-4ec5-9861-2e3945331095",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1733727203353"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {},
+        "emptyWindows": {
+            "1733727203353": "__default__profile__"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "C:\\Users\\Takoo\\github-classroom\\Proyecto-final-PingPong\\~\\.vscode-root\\Backups\\1733727203353",
+            "uiState": {
+                "mode": 1,
+                "x": 498,
+                "y": 284,
+                "width": 1025,
+                "height": 769
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "titleBarBorder": "#2b2b2b",
+            "activityBarBackground": "#181818",
+            "activityBarBorder": "#2b2b2b",
+            "sideBarBackground": "#181818",
+            "sideBarBorder": "#2b2b2b",
+            "statusBarBackground": "#181818",
+            "statusBarBorder": "#2b2b2b",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    }
+}

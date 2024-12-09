@@ -1,0 +1,26 @@
+2024-12-09 00:53:23.894 [info] Started local extension host with pid 22144.
+2024-12-09 00:53:24.300 [error] Extension 'ms-vscode.cpptools' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): terminalDataWriteEvent, lmTools
+product.json (WINS): terminalDataWriteEvent
+2024-12-09 00:53:25.118 [info] Settings Sync: Updating due to initialize
+2024-12-09 00:53:25.119 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.119 [info] Settings Sync: Authentication providers updated []
+2024-12-09 00:53:25.245 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.245 [info] Settings Sync: Authentication providers updated ["github"]
+2024-12-09 00:53:25.245 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.245 [info] Settings Sync: Authentication providers updated ["github"]
+2024-12-09 00:53:25.246 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.246 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-09 00:53:25.246 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.246 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-09 00:53:25.257 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-12-09 00:53:25.257 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.257 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-09 00:53:25.258 [info] Settings Sync: Updating due to declared authentication providers changed
+2024-12-09 00:53:25.258 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.258 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-09 00:53:25.497 [info] Settings Sync: Updating authentication providers. Authentication Providers from store: [{"id":"github","scopes":["user:email"]},{"id":"microsoft","scopes":["openid","profile","email","offline_access"]}]
+2024-12-09 00:53:25.497 [info] Settings Sync: Authentication providers updated ["github","microsoft"]
+2024-12-09 00:53:26.013 [error] [Extension Host] (node:22144) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `Code --trace-deprecation ...` to show where the warning was created)
+2024-12-09 00:53:26.937 [info] [perf] Render performance baseline is 26ms

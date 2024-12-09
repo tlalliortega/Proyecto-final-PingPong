@@ -1,0 +1,7 @@
+2024-12-09 00:53:22.541 [error] Error: Error mutex already exists
+    at Eu.U (file:///C:/Users/Takoo/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/main.js:81:18090)
+2024-12-09 00:53:22.547 [info] update#setState idle
+2024-12-09 00:53:52.561 [info] update#setState checking for updates
+2024-12-09 00:53:52.648 [info] update#setState idle
+2024-12-09 00:56:20.617 [info] Extension host with pid 22144 exited with code: 0, signal: unknown.
+2024-12-09 00:56:20.688 [error] [UtilityProcessWorker]: terminated unexpectedly with code 18446744073364242000, signal: unknown

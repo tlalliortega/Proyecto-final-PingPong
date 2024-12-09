@@ -1,0 +1,6 @@
+2024-12-09 00:53:26.024 [warning] C:\Users\Takoo\.ssh\config: ENOENT: no such file or directory, open 'C:\Users\Takoo\.ssh\config'
+2024-12-09 00:53:26.024 [info] Activation> Extension version: 0.100.3
+2024-12-09 00:53:26.024 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/c:/Users/Takoo/github-classroom/Proyecto-final-PingPong/~/.vscode-root/User/globalStorage/github.vscode-pull-request-github/temp'
+2024-12-09 00:53:26.066 [info] Looking for git repository
+2024-12-09 00:53:26.066 [info] Found 0 repositories during activation
+2024-12-09 00:53:26.067 [info] Git repository found, initializing review manager and pr tree view.
